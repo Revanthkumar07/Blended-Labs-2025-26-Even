@@ -69,6 +69,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** CHITLURU VENKATA SIVA DINESH KUMAR and Reg no: 212224040055 
+**Name:** BEEDA VENKATA REVANTH KUMAR and Reg no: 212224240023
 **Course:** Introduction to Cloud Computing  
 
